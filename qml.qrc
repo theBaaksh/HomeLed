@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomTabBar.qml</file>
+        <file>CustomSlider.qml</file>
+        <file>MonoMode.qml</file>
+        <file>ColorWheel.qml</file>
+        <file>RainbowMode.qml</file>
+        <file>NoiseMode.qml</file>
+        <file>CustomRadioButton.qml</file>
+        <file>LampMode.qml</file>
+        <file>TabBar/RoundedTabBar.qml</file>
+        <file>TabBar/RoundTab.qml</file>
+        <file>TabBar/SelectionPointer.qml</file>
+        <file>VerticalTabBar.qml</file>
+        <file>VerticatTabButton.qml</file>
+    </qresource>
+</RCC>

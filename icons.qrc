@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/handle.svg</file>
+        <file>icons/handle.png</file>
+        <file>icons/handleLabel.png</file>
+        <file>icons/powerIcon.svg</file>
+        <file>icons/ColorWheel.png</file>
+        <file>icons/color.png</file>
+        <file>icons/lamp.png</file>
+        <file>icons/noise.png</file>
+        <file>icons/rainbow.png</file>
+        <file>icons/IMG_4176.png</file>
+        <file>icons/IMG_346.jpg</file>
+        <file>icons/IMG_347.jpg</file>
+        <file>icons/turnOn.png</file>
+    </qresource>
+</RCC>
