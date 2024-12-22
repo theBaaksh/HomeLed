@@ -1,0 +1,1 @@
+![Вид главного окна](img/mainWindow.png)
